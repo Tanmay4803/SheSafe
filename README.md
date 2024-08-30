@@ -1,10 +1,10 @@
-# SHESAFE: Empowering Safety Through Technology
+# SheSafe: Empowering Safety Through Technology
 
 ![SHESAFE Logo](/logolink.jpg)
 
-## 🚀 About SHESAFE
+## 🚀 About SheSafe
 
-SHESAFE is an innovative safety solution designed to address the varying levels of emergency situations faced by students, particularly in college and university settings. By integrating advanced technologies and fostering a community-driven approach, SHESAFE ensures a safer environment for all.
+SheSafe is an innovative safety solution designed to address the varying levels of emergency situations faced by students, particularly in college and university settings. By integrating advanced technologies and fostering a community-driven approach, SHESAFE ensures a safer environment for all.
 
 ## 🌟 Features
 
